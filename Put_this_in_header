@@ -1,0 +1,7 @@
+	<link href="/lib/jpecrga/jpecrga-default.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/lib/jpecrga/jpecrga-2.0.1.min.js"></script>
+	<script type="text/javascript">
+		$.ws.jpecrga({ gaKey: 'AQUI SE DEBE PONER LA GAKEY' });
+		/* $.jpecrga(); still works, but will be deprecated on our next release. */
+	</script>
